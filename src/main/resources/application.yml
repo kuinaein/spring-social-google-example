@@ -1,0 +1,13 @@
+#spring:
+#  social:
+#    google:
+#      app-id:
+#      app-secret:
+
+logging:
+  file: logs/spring.log
+  level:
+#    org.springframework: DEBUG
+    kuina.spring_social_sbox: DEBUG
+
+management.security.enabled: false

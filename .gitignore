@@ -11,6 +11,7 @@
 .springBeans
 
 bin/
+logs/
 
 ### IntelliJ IDEA ###
 .idea
